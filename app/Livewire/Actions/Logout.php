@@ -20,3 +20,5 @@ class Logout
         return redirect('/');
     }
 }
+
+// farhan gantenng
