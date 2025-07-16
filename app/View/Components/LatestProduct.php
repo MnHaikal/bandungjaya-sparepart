@@ -33,3 +33,7 @@ class LatestProduct extends Component
         return view($this->default_template().'.components.latest-product');
     }
 }
+
+
+
+// abdan ganteng

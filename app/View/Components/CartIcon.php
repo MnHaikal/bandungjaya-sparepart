@@ -47,3 +47,5 @@ class CartIcon extends Component
         ]);
     }
 }
+
+// abdan ganteng

@@ -26,3 +26,6 @@ class Navbar extends Component
         return view($this->themeFolder.'.components.navbar');
     }
 }
+
+
+// abdan ganteng

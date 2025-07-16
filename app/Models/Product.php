@@ -16,3 +16,5 @@ class Product  extends Model implements Cartable
         return $this->price;
     }
 }
+
+// abdan ganteng
