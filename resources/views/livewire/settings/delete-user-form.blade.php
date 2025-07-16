@@ -56,3 +56,4 @@ new class extends Component {
         </form>
     </flux:modal>
 </section>
+<!-- faris ganteng -->

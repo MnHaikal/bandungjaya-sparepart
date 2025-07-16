@@ -251,3 +251,7 @@
     </div>
     <!-- ***** Subscribe Area Ends ***** -->
 </x-layout>
+
+
+
+<!-- faris gantenng -->

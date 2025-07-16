@@ -24,3 +24,5 @@ class AppServiceProvider extends ServiceProvider
 }
 
 // farhan ganteng
+
+// paris ganteng
